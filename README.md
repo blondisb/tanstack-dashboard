@@ -299,3 +299,15 @@ Files prefixed with `demo` can be safely deleted. They are there to provide a st
 # Learn More
 
 You can learn more about all of the offerings from TanStack in the [TanStack documentation](https://tanstack.com).
+
+
+
+# TXT.TXT
+
+>   npx create-start-app@latest
+>   npm run dev
+>   npx shadcn@latest add dashboard-01
+https://ui.shadcn.com/blocks
+
+comment line: {/* <Header /> */} in __root.tsx
+deleting lines in theme-provider.tsx
